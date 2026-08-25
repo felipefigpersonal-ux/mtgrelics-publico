@@ -1,0 +1,552 @@
+{
+  "data": "2026-08-25",
+  "cambio": {
+    "usd_brl": 5.158,
+    "eur_brl": 6.0152,
+    "data": "2026-08-25"
+  },
+  "dolar_maior": [
+    {
+      "nome": "Forest",
+      "edicao": "POR",
+      "numero": "213s",
+      "acabamento": "nonfoil",
+      "razao": 124.9,
+      "usd_brl": 774,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Forest",
+      "edicao": "POR",
+      "numero": "212s",
+      "acabamento": "nonfoil",
+      "razao": 108.2,
+      "usd_brl": 671,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Forest",
+      "edicao": "POR",
+      "numero": "215s",
+      "acabamento": "nonfoil",
+      "razao": 99.9,
+      "usd_brl": 619,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Plains",
+      "edicao": "POR",
+      "numero": "197s",
+      "acabamento": "nonfoil",
+      "razao": 61.2,
+      "usd_brl": 516,
+      "eur_brl": 8
+    },
+    {
+      "nome": "Slivdrazi Monstrosity",
+      "edicao": "CMB1",
+      "numero": "102",
+      "acabamento": "nonfoil",
+      "razao": 38.2,
+      "usd_brl": 310,
+      "eur_brl": 8
+    },
+    {
+      "nome": "Bosk Banneret",
+      "edicao": "MOR",
+      "numero": "114",
+      "acabamento": "foil",
+      "razao": 37.9,
+      "usd_brl": 241,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Basri Ket",
+      "edicao": "PWCS",
+      "numero": "2021-1",
+      "acabamento": "foil",
+      "razao": 27.8,
+      "usd_brl": 619,
+      "eur_brl": 22
+    },
+    {
+      "nome": "Lure",
+      "edicao": "30A",
+      "numero": "207",
+      "acabamento": "nonfoil",
+      "razao": 26.7,
+      "usd_brl": 173,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Metamorphic Wurm",
+      "edicao": "ODY",
+      "numero": "250",
+      "acabamento": "foil",
+      "razao": 25.7,
+      "usd_brl": 202,
+      "eur_brl": 8
+    },
+    {
+      "nome": "Tarox Bladewing",
+      "edicao": "FUT",
+      "numero": "123",
+      "acabamento": "foil",
+      "razao": 25.1,
+      "usd_brl": 173,
+      "eur_brl": 7
+    },
+    {
+      "nome": "Hour of Revelation",
+      "edicao": "PHOU",
+      "numero": "15p",
+      "acabamento": "foil",
+      "razao": 21.7,
+      "usd_brl": 246,
+      "eur_brl": 11
+    },
+    {
+      "nome": "Marrow-Gnawer",
+      "edicao": "BLC",
+      "numero": "79",
+      "acabamento": "nonfoil",
+      "razao": 18.6,
+      "usd_brl": 126,
+      "eur_brl": 7
+    },
+    {
+      "nome": "Ballyrush Banneret",
+      "edicao": "MOR",
+      "numero": "1",
+      "acabamento": "foil",
+      "razao": 18.6,
+      "usd_brl": 121,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Ebondeath, Dracolich",
+      "edicao": "PAFR",
+      "numero": "100a",
+      "acabamento": "foil",
+      "razao": 18.0,
+      "usd_brl": 129,
+      "eur_brl": 7
+    },
+    {
+      "nome": "Tainted Adversary",
+      "edicao": "DBL",
+      "numero": "124",
+      "acabamento": "foil",
+      "razao": 17.6,
+      "usd_brl": 134,
+      "eur_brl": 8
+    },
+    {
+      "nome": "Asmodeus the Archfiend",
+      "edicao": "PAFR",
+      "numero": "88a",
+      "acabamento": "foil",
+      "razao": 17.0,
+      "usd_brl": 167,
+      "eur_brl": 10
+    },
+    {
+      "nome": "Echo, Perceptive Prodigy",
+      "edicao": "PW26",
+      "numero": "11",
+      "acabamento": "foil",
+      "razao": 16.5,
+      "usd_brl": 136,
+      "eur_brl": 8
+    },
+    {
+      "nome": "Infesting Radroach",
+      "edicao": "PIP",
+      "numero": "46",
+      "acabamento": "foil",
+      "razao": 16.2,
+      "usd_brl": 108,
+      "eur_brl": 7
+    },
+    {
+      "nome": "Mother of Goons",
+      "edicao": "UNH",
+      "numero": "59",
+      "acabamento": "foil",
+      "razao": 15.5,
+      "usd_brl": 270,
+      "eur_brl": 17
+    },
+    {
+      "nome": "Dryad's Revival",
+      "edicao": "DBL",
+      "numero": "183",
+      "acabamento": "foil",
+      "razao": 15.5,
+      "usd_brl": 98,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Boomerang",
+      "edicao": "DCI",
+      "numero": "4",
+      "acabamento": "foil",
+      "razao": 14.4,
+      "usd_brl": 131,
+      "eur_brl": 9
+    },
+    {
+      "nome": "Plague Myr",
+      "edicao": "DCI",
+      "numero": "65",
+      "acabamento": "foil",
+      "razao": 14.3,
+      "usd_brl": 142,
+      "eur_brl": 10
+    },
+    {
+      "nome": "Minsc, Beloved Ranger",
+      "edicao": "PAFR",
+      "numero": "227a",
+      "acabamento": "foil",
+      "razao": 14.0,
+      "usd_brl": 93,
+      "eur_brl": 7
+    },
+    {
+      "nome": "Coastal Piracy",
+      "edicao": "PSAL",
+      "numero": "E49",
+      "acabamento": "nonfoil",
+      "razao": 13.4,
+      "usd_brl": 82,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Dictate of the Twin Gods",
+      "edicao": "JOU",
+      "numero": "93",
+      "acabamento": "foil",
+      "razao": 13.4,
+      "usd_brl": 131,
+      "eur_brl": 10
+    },
+    {
+      "nome": "When Fluffy Bunnies Attack",
+      "edicao": "UNH",
+      "numero": "67★",
+      "acabamento": "foil",
+      "razao": 11.6,
+      "usd_brl": 229,
+      "eur_brl": 20
+    },
+    {
+      "nome": "Marrow-Gnawer",
+      "edicao": "BLC",
+      "numero": "79",
+      "acabamento": "foil",
+      "razao": 11.5,
+      "usd_brl": 133,
+      "eur_brl": 12
+    },
+    {
+      "nome": "Ochre Jelly",
+      "edicao": "PAFR",
+      "numero": "196a",
+      "acabamento": "foil",
+      "razao": 11.3,
+      "usd_brl": 71,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Channel",
+      "edicao": "FBB",
+      "numero": "188",
+      "acabamento": "nonfoil",
+      "razao": 11.2,
+      "usd_brl": 72,
+      "eur_brl": 6
+    },
+    {
+      "nome": "Ancestral Tribute",
+      "edicao": "ODY",
+      "numero": "2",
+      "acabamento": "foil",
+      "razao": 11.1,
+      "usd_brl": 253,
+      "eur_brl": 23
+    }
+  ],
+  "euro_maior": [
+    {
+      "nome": "Rock Hydra",
+      "edicao": "SUM",
+      "numero": "173",
+      "acabamento": "nonfoil",
+      "razao": 1399.4,
+      "usd_brl": 5,
+      "eur_brl": 7218
+    },
+    {
+      "nome": "Red Elemental Blast",
+      "edicao": "SUM",
+      "numero": "171",
+      "acabamento": "nonfoil",
+      "razao": 512.3,
+      "usd_brl": 10,
+      "eur_brl": 5047
+    },
+    {
+      "nome": "Fog",
+      "edicao": "SUM",
+      "numero": "195",
+      "acabamento": "nonfoil",
+      "razao": 325.5,
+      "usd_brl": 5,
+      "eur_brl": 1679
+    },
+    {
+      "nome": "Fireball",
+      "edicao": "SUM",
+      "numero": "150",
+      "acabamento": "nonfoil",
+      "razao": 207.3,
+      "usd_brl": 5,
+      "eur_brl": 1069
+    },
+    {
+      "nome": "Crystal Rod",
+      "edicao": "SUM",
+      "numero": "242",
+      "acabamento": "nonfoil",
+      "razao": 62.4,
+      "usd_brl": 26,
+      "eur_brl": 1611
+    },
+    {
+      "nome": "Phyrexian Rager",
+      "edicao": "PMEI",
+      "numero": "2000-5",
+      "acabamento": "nonfoil",
+      "razao": 38.4,
+      "usd_brl": 6,
+      "eur_brl": 214
+    },
+    {
+      "nome": "Tunnel",
+      "edicao": "30A",
+      "numero": "471",
+      "acabamento": "nonfoil",
+      "razao": 35.0,
+      "usd_brl": 5,
+      "eur_brl": 180
+    },
+    {
+      "nome": "Shardless Agent",
+      "edicao": "EMA",
+      "numero": "206",
+      "acabamento": "foil",
+      "razao": 30.6,
+      "usd_brl": 6,
+      "eur_brl": 195
+    },
+    {
+      "nome": "Stoneforge Mystic",
+      "edicao": "J16",
+      "numero": "1",
+      "acabamento": "foil",
+      "razao": 24.8,
+      "usd_brl": 170,
+      "eur_brl": 4215
+    },
+    {
+      "nome": "Aurora Eidolon",
+      "edicao": "DIS",
+      "numero": "1",
+      "acabamento": "foil",
+      "razao": 19.0,
+      "usd_brl": 6,
+      "eur_brl": 116
+    },
+    {
+      "nome": "Bilbo, Luckwearer // Burglar's Plot",
+      "edicao": "PW26",
+      "numero": "15",
+      "acabamento": "foil",
+      "razao": 18.0,
+      "usd_brl": 6,
+      "eur_brl": 114
+    },
+    {
+      "nome": "Circle of Protection: Red",
+      "edicao": "30A",
+      "numero": "310",
+      "acabamento": "nonfoil",
+      "razao": 17.8,
+      "usd_brl": 30,
+      "eur_brl": 541
+    },
+    {
+      "nome": "Taigam, Ojutai Master",
+      "edicao": "MUL",
+      "numero": "190",
+      "acabamento": "foil",
+      "razao": 17.4,
+      "usd_brl": 27,
+      "eur_brl": 468
+    },
+    {
+      "nome": "Sazh's Chocobo",
+      "edicao": "PMEI",
+      "numero": "2026-17",
+      "acabamento": "foil",
+      "razao": 16.9,
+      "usd_brl": 6,
+      "eur_brl": 103
+    },
+    {
+      "nome": "Horned Turtle",
+      "edicao": "POR",
+      "numero": "57s",
+      "acabamento": "nonfoil",
+      "razao": 12.3,
+      "usd_brl": 46,
+      "eur_brl": 566
+    },
+    {
+      "nome": "Earth Elemental",
+      "edicao": "30A",
+      "numero": "438",
+      "acabamento": "nonfoil",
+      "razao": 12.2,
+      "usd_brl": 37,
+      "eur_brl": 455
+    },
+    {
+      "nome": "Utopia Tree",
+      "edicao": "INV",
+      "numero": "219",
+      "acabamento": "foil",
+      "razao": 12.2,
+      "usd_brl": 12,
+      "eur_brl": 142
+    },
+    {
+      "nome": "Anthroplasm",
+      "edicao": "ULG",
+      "numero": "25",
+      "acabamento": "foil",
+      "razao": 12.2,
+      "usd_brl": 10,
+      "eur_brl": 126
+    },
+    {
+      "nome": "Shivan Dragon",
+      "edicao": "10E",
+      "numero": "230★",
+      "acabamento": "foil",
+      "razao": 12.1,
+      "usd_brl": 26,
+      "eur_brl": 312
+    },
+    {
+      "nome": "Firebreathing",
+      "edicao": "30A",
+      "numero": "443",
+      "acabamento": "nonfoil",
+      "razao": 11.7,
+      "usd_brl": 5,
+      "eur_brl": 60
+    },
+    {
+      "nome": "Headless Rider",
+      "edicao": "PVOW",
+      "numero": "118★",
+      "acabamento": "foil",
+      "razao": 10.8,
+      "usd_brl": 6,
+      "eur_brl": 64
+    },
+    {
+      "nome": "Plains",
+      "edicao": "BRB",
+      "numero": "124",
+      "acabamento": "nonfoil",
+      "razao": 10.3,
+      "usd_brl": 11,
+      "eur_brl": 112
+    },
+    {
+      "nome": "Squid",
+      "edicao": "L14",
+      "numero": "3",
+      "acabamento": "nonfoil",
+      "razao": 10.2,
+      "usd_brl": 6,
+      "eur_brl": 63
+    },
+    {
+      "nome": "Sly Spy",
+      "edicao": "UST",
+      "numero": "67b",
+      "acabamento": "foil",
+      "razao": 10.0,
+      "usd_brl": 5,
+      "eur_brl": 52
+    },
+    {
+      "nome": "Dragon Whelp",
+      "edicao": "30A",
+      "numero": "435",
+      "acabamento": "nonfoil",
+      "razao": 9.3,
+      "usd_brl": 181,
+      "eur_brl": 1684
+    },
+    {
+      "nome": "Rathi Assassin",
+      "edicao": "NEM",
+      "numero": "67",
+      "acabamento": "foil",
+      "razao": 8.8,
+      "usd_brl": 7,
+      "eur_brl": 64
+    },
+    {
+      "nome": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "edicao": "PFIN",
+      "numero": "16s",
+      "acabamento": "foil",
+      "razao": 8.6,
+      "usd_brl": 31,
+      "eur_brl": 270
+    },
+    {
+      "nome": "Bramble Wurm",
+      "edicao": "INR",
+      "numero": "407",
+      "acabamento": "foil",
+      "razao": 8.5,
+      "usd_brl": 6,
+      "eur_brl": 53
+    },
+    {
+      "nome": "Asmodeus the Archfiend",
+      "edicao": "PAFR",
+      "numero": "88s",
+      "acabamento": "foil",
+      "razao": 8.3,
+      "usd_brl": 10,
+      "eur_brl": 84
+    },
+    {
+      "nome": "Stony Silence",
+      "edicao": "SLD",
+      "numero": "2554",
+      "acabamento": "foil",
+      "razao": 8.2,
+      "usd_brl": 15,
+      "eur_brl": 120
+    }
+  ]
+}
